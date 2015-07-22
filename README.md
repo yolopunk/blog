@@ -1,3 +1,3 @@
-## blog
+#blog
 
-- [x] **Source folder: ** Where my content is stored
+- [x] **Source folder: **  `Where my content is stored.`
