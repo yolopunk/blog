@@ -1,3 +1,5 @@
 #blog
 ---
-My [blog](https://cynosure.github.io) source folder:  `Where my content is stored.`
+My [blog](https://cynosures.github.io) source folder:  `Where my content is stored.`
+
+---
