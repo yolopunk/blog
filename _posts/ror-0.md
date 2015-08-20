@@ -1,9 +1,10 @@
-title: RoR中对于Time类扩展
+title: RoR中对于Time类的扩展
 date: 2015-08-20 16:50:41
 tags: RoR
 ---
 今天是七夕，又被虐单身。。。
-8.12塘沽爆炸了，悼念一下。。今天看新闻塘沽那边的海河区域死了好多鱼。。
+8.12塘沽爆炸了，悼念一下。。
+今天看新闻塘沽那边的海河区域死了好多鱼。。
 
 唉， 开始正题：
 
@@ -46,3 +47,4 @@ count_a = IntegralOrder.where({
                                  item_id: integral_order.item_id
                               }).count
 ```
+以上执行的结果是某一会员在今天产生的订单数
