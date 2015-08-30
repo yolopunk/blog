@@ -1,4 +1,4 @@
-title: 对CSS伪类中``:first-child``和``:last-child``的理解
+title: 对CSS伪类中[:first-child]和[:last-child]的理解
 date: 2015-08-03 16:50:41
 tags: CSS
 ---
